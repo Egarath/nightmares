@@ -11,7 +11,7 @@ Web estática multipágina para la campaña Midnight en Sharuum.
 
 ## Frontera de publicación
 
-Esta web excluye MOD005, secretos del Director, fichas privadas, catálogos mixtos y assets sin permiso web. El contenido de reglas publicable se limita al SRD 5.2.1 con atribución CC-BY-4.0 y a texto original aprobado. El Bestiario V3 incluye arte original autorizado y la ficha SRD del Cangrejo gigante; PNJ, antagonistas y mecánicas de ambientación sin licencia permanecen fuera.
+Esta web excluye MOD005, secretos del Director, fichas privadas, catálogos mixtos y assets sin permiso web. El contenido de reglas publicable se limita al SRD 5.2.1 con atribución CC-BY-4.0 y a texto original aprobado. El Bestiario V3 incluye la ficha SRD del Cangrejo gigante; PNJ, antagonistas y mecánicas de ambientación sin licencia permanecen fuera.
 
 ## Actualización
 
