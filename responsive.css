@@ -1,1 +1,1 @@
-.source a{overflow-wrap:anywhere;word-break:break-word}@media(max-width:360px){.hero-orbit{width:100%;overflow:hidden}.orbit-a{width:250px}.orbit-b{width:270px}.moon{width:140px;height:140px;font-size:4rem}}
+.source a{overflow-wrap:anywhere;word-break:break-word}.hero-orbit{overflow:hidden}@media(max-width:360px){.hero-orbit{width:100%;overflow:hidden}.orbit-a{width:250px}.orbit-b{width:270px}.moon{width:140px;height:140px;font-size:4rem}}
